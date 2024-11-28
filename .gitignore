@@ -1,0 +1,9 @@
+bin.zip
+
+bin
+
+photo-gallery/dist
+
+photo-gallery/node_modules
+
+server/img2proj.exe
